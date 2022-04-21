@@ -1,0 +1,16 @@
+{
+  "name": "node_server",
+  "version": "1.0.0",
+  "description": "Iniciando servidor",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Anthony Labour",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3"
+  }
+}
